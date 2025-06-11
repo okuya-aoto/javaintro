@@ -4,7 +4,7 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 		//修正しました。
-		System.out.println("おはようございます。");
+		System.out.println("こんにちは。");
 
 	}
 
