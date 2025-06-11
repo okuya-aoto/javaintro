@@ -105,7 +105,7 @@ public class PhoneApp {
 			
 		}else {
 			
-			System.out.println("同じ名前が複数あります。電話番号の下4桁を入力してください。：");
+			System.out.println("同じ名前が複数あります。電話番号の下4桁を入力してください。>");
 			String last4 = scanner.nextLine();
 			
 			boolean found = false;
